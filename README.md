@@ -3,5 +3,7 @@ Lecture notes on various subjects
 
 ## Teachings
 
-- IF M562 Classical Electrodynamics (Winter 2021)
-- IF Winter School: Quantum Information ก้าวแรกสู่นักควอนตัมเทคโนโลยี (31 Oct - 1 Nov 2021)
+The Institute for Fundamental Study, Naresuan University
+
+- M562 Classical Electrodynamics (Winter 2021)
+- Winter School: Quantum Computation (31 Oct - 1 Nov 2021)

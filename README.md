@@ -1,5 +1,5 @@
 # lecture-notes
-Lecture notes on various subjects
+Lecture notes for courses that don't have there own repositories.
 
 ## Teachings
 
